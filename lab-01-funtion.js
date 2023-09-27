@@ -3,4 +3,4 @@ function Tinhtong(a,b){
     return ketQua 
 }
 const kq1 = Tinhtong(2,5)
-console.log(kq1)
+console.log(kq1) 

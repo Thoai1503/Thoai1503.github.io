@@ -60,3 +60,10 @@ const pi2 = 3.14
 let ChuViHinhTron = e*pi2
 console.log('Chu vi hinh tron',ChuViHinhTron)
 
+//Cau e Tinh chu vi va dien tich hinh chu nhat
+let Dai = 15
+let Rong = 10
+let ChuViHinhChuNhat = (Dai+Rong)*2
+console.log('Chu Vi Hinh Chu Nhat', ChuViHinhChuNhat)
+
+
