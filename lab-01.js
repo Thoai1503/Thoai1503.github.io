@@ -63,7 +63,7 @@ console.log('Chu vi hinh tron',ChuViHinhTron)
 //Cau e Tinh chu vi va dien tich hinh chu nhat
 let Dai = 15
 let Rong = 10
-let ChuViHinhChuNhat = (Dai+Rong)*2
+let ChuViHinhChuNhat = (Dai+Rong)*2                     
 console.log('Chu Vi Hinh Chu Nhat', ChuViHinhChuNhat)
 
 
