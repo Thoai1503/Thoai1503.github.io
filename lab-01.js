@@ -30,7 +30,7 @@ Dienthoai.Gia = '750 USD'
 console.log(Dienthoai)
 
 ///Toan tu
-//Cau a. Khoi tao bien va lam phep tinh
+//Cau a. Khoi tao bien va ...       
 let c = 3
 let d = 4
 let KetQua = c + d
