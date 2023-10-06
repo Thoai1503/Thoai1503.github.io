@@ -29,7 +29,7 @@ function soPhut(n){
     
     return tongChiphi
 }
-soPhut(270)
 
-let sum= tongChiphi
-console.log('Tong cuoc phi cua %s phut goi la %s',n,sum)
+
+let sum= soPhut(270)
+console.log('Tong cuoc phi cua %s phut goi la %s',270,sum)
